@@ -1,0 +1,1 @@
+Las migraciones 01_tablas_base y 02_seguridad_rls_y_funciones ya están aplicadas en el proyecto Supabase pesquera-la-magdalena.
